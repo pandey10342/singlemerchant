@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643831128152",
+    "firebase_url": "https://snacks-on-wheel.firebaseio.com",
+    "project_id": "snacks-on-wheel",
+    "storage_bucket": "snacks-on-wheel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643831128152:android:a0b5e763a6753d5ce7ea2d",
+        "android_client_info": {
+          "package_name": "com.restaurant.appetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643831128152-hgrgnv1d2mls6u6d8qlt0jskh2dekosr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_ss0UKf0v3c0haudeov43UmDdve7RyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643831128152-hgrgnv1d2mls6u6d8qlt0jskh2dekosr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
