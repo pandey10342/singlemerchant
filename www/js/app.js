@@ -67,7 +67,7 @@ function onDeviceReady() {
 	admob.banner.prepare();
 	admob.banner.show({
 		id:'ca-app-pub-6871330764548204/6787711262',
-		autoShow:true;
+		autoShow:true
 	})
 	
 	try {
