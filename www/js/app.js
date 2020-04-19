@@ -63,6 +63,7 @@ var empty = function(data) {
 document.addEventListener("deviceready", onDeviceReady, false);
 
 function onDeviceReady() {
+	document.removeEventListener('deviceready', onDeviceReady, false);
 	   admob.setOptions({
         publisherId:          "ca-app-pub-6871330764548204~5867465548",  // Required
     });
